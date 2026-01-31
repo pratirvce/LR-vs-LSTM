@@ -1,0 +1,28 @@
+================================================================================
+                    QUICK START: Upload to GitHub
+================================================================================
+
+Run these commands in your terminal (one at a time):
+
+1️⃣  Navigate to the folder:
+    cd /Users/pratibharevankar/Desktop/submission/submission_final
+
+2️⃣  Run the automated upload script:
+    ./upload_to_github.sh
+
+That's it! The script will handle everything automatically.
+
+================================================================================
+
+If you see authentication prompts:
+- Username: pratirvce
+- Password: [Use GitHub Personal Access Token, not your password]
+
+If you don't have a token, follow instructions in GITHUB_UPLOAD_INSTRUCTIONS.md
+
+================================================================================
+
+After upload, visit:
+https://github.com/pratirvce/LR-vs-LSTM
+
+================================================================================
