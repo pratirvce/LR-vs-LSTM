@@ -178,12 +178,6 @@ This project was created as coursework for NLP 202.
 Pratibha Revankar  
 GitHub: [@pratirvce](https://github.com/pratirvce)
 
-## 🙏 Acknowledgments
-
-- IMDB dataset: [Maas et al., 2011](http://ai.stanford.edu/~amaas/papers/wvSent_acl2011.pdf)
-- Course: NLP 202 - Natural Language Processing
-- Assignment focus: Understanding minibatching in PyTorch
-
 ## 📚 References
 
 1. Maas, A. L., et al. (2011). Learning Word Vectors for Sentiment Analysis. ACL.
