@@ -1,7 +1,5 @@
 """
-NLP 202 Assignment 1: Sentiment Analysis with Minibatching
-Author: [Your Name]
-
+Sentiment Analysis with Minibatching
 This script implements:
 1. Logistic Regression model with minibatching
 2. LSTM model with minibatching
